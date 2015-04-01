@@ -1,0 +1,36 @@
+@import gridforms
+
+#map 
+    position: fixed !important
+    position: absolute
+    top: 0
+    right: 0
+    bottom: 0
+    left: 0
+
+#show-menu 
+    position: fixed
+    top: 45%
+    right: 0
+
+#show-menu a 
+    display: block
+    padding: 2px 5px 7px 5px
+    color: #ccc
+    background: #000
+    font-size: 20pt
+    font-weight: bold
+
+    -webkit-border-top-left-radius: 10px
+    -webkit-border-bottom-left-radius: 10px
+    -moz-border-radius-topleft: 10px
+    -moz-border-radius-bottomleft: 10px
+    border-top-left-radius: 10px
+    border-bottom-left-radius: 10px
+
+#show-menu:hover a
+    background: #333
+
+.menu-form
+    +grid-form($label-color: #ccc, $legend-color: #ccc, $grid-border-color: #ccc, $field-focus-color: #333)
+    padding-top: 10px

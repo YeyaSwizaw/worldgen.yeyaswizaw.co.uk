@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<title>Random Map Generator</title>
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<link rel="stylesheet" href="css/jquery.sidr.dark.css" />
+<link rel="stylesheet" href="css/style.css" />
+
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script src="js/jquery.sidr.min.js"></script>
+<script src="js/worldgen.js"></script>
+
+<body>
+    <div id="container">
+        <div id="map"></div>
+        <div id="show-menu"><a>&laquo;</a></div>
+    </div>
+
+    <div class="menu"></div>
+    <div class="menu-content">
+        <form class="menu-form">
+            <fieldset>
+                <legend>Map Options</legend>
+                <div data-row-span="1">
+                    <div data-field-span="2">
+                        <label>Seed:</label>
+                        <input id="seed-input" name="seed" type="text">
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</body>
+
+</html>
