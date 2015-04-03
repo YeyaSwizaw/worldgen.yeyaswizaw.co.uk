@@ -177,7 +177,6 @@ $(document).ready(function() {
 
             input.onchange = function() {
                 noisemap.combinations = input.value.replace(/\s/g, '').split(',');
-                alert(noisemap.combinations);
                 refreshMap();
             }
             })();
@@ -200,7 +199,6 @@ $(document).ready(function() {
 
             input.onchange = function() {
                 noisemap.factors = input.value.replace(/\s/g, '').split(',');
-                alert(noisemap.combinations);
                 refreshMap();
             }
             })();
