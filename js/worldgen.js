@@ -58,7 +58,7 @@ $(document).ready(function() {
     });
 
     function refreshMap() {
-        layer.setUrl('/tile/{x}/{y}/' + JSON.stringify(mapjson));
+        layer.setUrl('/tile/{x}/{y}/' + JSON.stringify(mapjson, null, 0));
     }
 
     function setDefaults() {
@@ -176,7 +176,8 @@ $(document).ready(function() {
             el.appendChild(div1);
 
             input.onchange = function() {
-                noisemap.combinations = input.value.replace('/ /g', '').split(',');
+                noisemap.combinations = input.value.replace(/\s/g, '').split(',');
+                alert(noisemap.combinations);
                 refreshMap();
             }
             })();
@@ -198,7 +199,8 @@ $(document).ready(function() {
             el.appendChild(div1);
 
             input.onchange = function() {
-                noisemap.factors = input.value.replace('/ /g', '').split(',');
+                noisemap.factors = input.value.replace(/\s/g, '').split(',');
+                alert(noisemap.combinations);
                 refreshMap();
             }
             })();
@@ -227,7 +229,7 @@ $(document).ready(function() {
         el.appendChild(div1);
 
         input.onchange = function() {
-            tiledef.constraintmaps = input.value.replace('/ /g', '').split(',');
+            tiledef.constraintmaps = input.value.replace(/\s/g, '').split(',');
             refreshMap();
         }
         })();
@@ -249,7 +251,7 @@ $(document).ready(function() {
         el.appendChild(div1);
 
         input.onchange = function() {
-            tiledef.constrainttypes = input.value.replace('/ /g', '').split(',');
+            tiledef.constrainttypes = input.value.replace(/\s/g, '').split(',');
             refreshMap();
         }
         })();
@@ -271,7 +273,7 @@ $(document).ready(function() {
         el.appendChild(div1);
 
         input.onchange = function() {
-            tiledef.constraintvals = input.value.replace('/ /g', '').split(',');
+            tiledef.constraintvals = input.value.replace(/\s/g, '').split(',');
             refreshMap();
         }
         })();
