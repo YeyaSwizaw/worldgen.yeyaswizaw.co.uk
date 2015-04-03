@@ -267,6 +267,52 @@
 #show-menu:hover a {
   background: #333; }
 
+#show-menu:hover {
+  cursor: pointer; }
+
+.button {
+  text-align: right;
+  align: right;
+  margin-top: 2px;
+  padding: 5px 0;
+  width: 100%; }
+
+.button span a {
+  text-align: right;
+  align: right;
+  padding: 5px;
+  color: #ccc;
+  font-size: 10pt;
+  font-weight: bold;
+  width: 100%; }
+
+.button:hover {
+  background: #4d4d4d;
+  cursor: pointer; }
+
+.button-row {
+  text-align: right;
+  align: right;
+  padding: 5px 0; }
+
+.button-row span a {
+  text-align: right;
+  align: right;
+  padding: 5px;
+  color: #ccc;
+  font-size: 15pt;
+  font-weight: bold; }
+
+.button-row span:hover a {
+  background: #4d4d4d; }
+
+.button-row span:hover {
+  cursor: pointer; }
+
+#hide-menu a {
+  font-size: 20pt;
+  padding-top: 0; }
+
 .menu-form {
   padding-top: 10px; }
   .menu-form *, .menu-form *:before, .menu-form *:after {
