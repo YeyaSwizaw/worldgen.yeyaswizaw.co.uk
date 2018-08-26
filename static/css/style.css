@@ -87,9 +87,9 @@
 .grid-form [data-row-span="2"] > [data-field-span="2"] {
   width: 100%; }
 .grid-form [data-row-span="3"] > [data-field-span="1"] {
-  width: 33.33333%; }
+  width: 33.3333333333%; }
 .grid-form [data-row-span="3"] > [data-field-span="2"] {
-  width: 66.66667%; }
+  width: 66.6666666667%; }
 .grid-form [data-row-span="3"] > [data-field-span="3"] {
   width: 100%; }
 .grid-form [data-row-span="4"] > [data-field-span="1"] {
@@ -111,29 +111,29 @@
 .grid-form [data-row-span="5"] > [data-field-span="5"] {
   width: 100%; }
 .grid-form [data-row-span="6"] > [data-field-span="1"] {
-  width: 16.66667%; }
+  width: 16.6666666667%; }
 .grid-form [data-row-span="6"] > [data-field-span="2"] {
-  width: 33.33333%; }
+  width: 33.3333333333%; }
 .grid-form [data-row-span="6"] > [data-field-span="3"] {
   width: 50%; }
 .grid-form [data-row-span="6"] > [data-field-span="4"] {
-  width: 66.66667%; }
+  width: 66.6666666667%; }
 .grid-form [data-row-span="6"] > [data-field-span="5"] {
-  width: 83.33333%; }
+  width: 83.3333333333%; }
 .grid-form [data-row-span="6"] > [data-field-span="6"] {
   width: 100%; }
 .grid-form [data-row-span="7"] > [data-field-span="1"] {
-  width: 14.28571%; }
+  width: 14.2857142857%; }
 .grid-form [data-row-span="7"] > [data-field-span="2"] {
-  width: 28.57143%; }
+  width: 28.5714285714%; }
 .grid-form [data-row-span="7"] > [data-field-span="3"] {
-  width: 42.85714%; }
+  width: 42.8571428571%; }
 .grid-form [data-row-span="7"] > [data-field-span="4"] {
-  width: 57.14286%; }
+  width: 57.1428571429%; }
 .grid-form [data-row-span="7"] > [data-field-span="5"] {
-  width: 71.42857%; }
+  width: 71.4285714286%; }
 .grid-form [data-row-span="7"] > [data-field-span="6"] {
-  width: 85.71429%; }
+  width: 85.7142857143%; }
 .grid-form [data-row-span="7"] > [data-field-span="7"] {
   width: 100%; }
 .grid-form [data-row-span="8"] > [data-field-span="1"] {
@@ -153,21 +153,21 @@
 .grid-form [data-row-span="8"] > [data-field-span="8"] {
   width: 100%; }
 .grid-form [data-row-span="9"] > [data-field-span="1"] {
-  width: 11.11111%; }
+  width: 11.1111111111%; }
 .grid-form [data-row-span="9"] > [data-field-span="2"] {
-  width: 22.22222%; }
+  width: 22.2222222222%; }
 .grid-form [data-row-span="9"] > [data-field-span="3"] {
-  width: 33.33333%; }
+  width: 33.3333333333%; }
 .grid-form [data-row-span="9"] > [data-field-span="4"] {
-  width: 44.44444%; }
+  width: 44.4444444444%; }
 .grid-form [data-row-span="9"] > [data-field-span="5"] {
-  width: 55.55556%; }
+  width: 55.5555555556%; }
 .grid-form [data-row-span="9"] > [data-field-span="6"] {
-  width: 66.66667%; }
+  width: 66.6666666667%; }
 .grid-form [data-row-span="9"] > [data-field-span="7"] {
-  width: 77.77778%; }
+  width: 77.7777777778%; }
 .grid-form [data-row-span="9"] > [data-field-span="8"] {
-  width: 88.88889%; }
+  width: 88.8888888889%; }
 .grid-form [data-row-span="9"] > [data-field-span="9"] {
   width: 100%; }
 .grid-form [data-row-span="10"] > [data-field-span="1"] {
@@ -191,49 +191,49 @@
 .grid-form [data-row-span="10"] > [data-field-span="10"] {
   width: 100%; }
 .grid-form [data-row-span="11"] > [data-field-span="1"] {
-  width: 9.09091%; }
+  width: 9.0909090909%; }
 .grid-form [data-row-span="11"] > [data-field-span="2"] {
-  width: 18.18182%; }
+  width: 18.1818181818%; }
 .grid-form [data-row-span="11"] > [data-field-span="3"] {
-  width: 27.27273%; }
+  width: 27.2727272727%; }
 .grid-form [data-row-span="11"] > [data-field-span="4"] {
-  width: 36.36364%; }
+  width: 36.3636363636%; }
 .grid-form [data-row-span="11"] > [data-field-span="5"] {
-  width: 45.45455%; }
+  width: 45.4545454545%; }
 .grid-form [data-row-span="11"] > [data-field-span="6"] {
-  width: 54.54545%; }
+  width: 54.5454545455%; }
 .grid-form [data-row-span="11"] > [data-field-span="7"] {
-  width: 63.63636%; }
+  width: 63.6363636364%; }
 .grid-form [data-row-span="11"] > [data-field-span="8"] {
-  width: 72.72727%; }
+  width: 72.7272727273%; }
 .grid-form [data-row-span="11"] > [data-field-span="9"] {
-  width: 81.81818%; }
+  width: 81.8181818182%; }
 .grid-form [data-row-span="11"] > [data-field-span="10"] {
-  width: 90.90909%; }
+  width: 90.9090909091%; }
 .grid-form [data-row-span="11"] > [data-field-span="11"] {
   width: 100%; }
 .grid-form [data-row-span="12"] > [data-field-span="1"] {
-  width: 8.33333%; }
+  width: 8.3333333333%; }
 .grid-form [data-row-span="12"] > [data-field-span="2"] {
-  width: 16.66667%; }
+  width: 16.6666666667%; }
 .grid-form [data-row-span="12"] > [data-field-span="3"] {
   width: 25%; }
 .grid-form [data-row-span="12"] > [data-field-span="4"] {
-  width: 33.33333%; }
+  width: 33.3333333333%; }
 .grid-form [data-row-span="12"] > [data-field-span="5"] {
-  width: 41.66667%; }
+  width: 41.6666666667%; }
 .grid-form [data-row-span="12"] > [data-field-span="6"] {
   width: 50%; }
 .grid-form [data-row-span="12"] > [data-field-span="7"] {
-  width: 58.33333%; }
+  width: 58.3333333333%; }
 .grid-form [data-row-span="12"] > [data-field-span="8"] {
-  width: 66.66667%; }
+  width: 66.6666666667%; }
 .grid-form [data-row-span="12"] > [data-field-span="9"] {
   width: 75%; }
 .grid-form [data-row-span="12"] > [data-field-span="10"] {
-  width: 83.33333%; }
+  width: 83.3333333333%; }
 .grid-form [data-row-span="12"] > [data-field-span="11"] {
-  width: 91.66667%; }
+  width: 91.6666666667%; }
 .grid-form [data-row-span="12"] > [data-field-span="12"] {
   width: 100%; }
 
@@ -274,7 +274,7 @@
   text-align: right;
   align: right;
   margin-top: 2px;
-  padding: 5px 0;
+  padding: 3px 0 5px 0;
   width: 100%; }
 
 .button span a {
@@ -404,9 +404,9 @@
   .menu-form [data-row-span="2"] > [data-field-span="2"] {
     width: 100%; }
   .menu-form [data-row-span="3"] > [data-field-span="1"] {
-    width: 33.33333%; }
+    width: 33.3333333333%; }
   .menu-form [data-row-span="3"] > [data-field-span="2"] {
-    width: 66.66667%; }
+    width: 66.6666666667%; }
   .menu-form [data-row-span="3"] > [data-field-span="3"] {
     width: 100%; }
   .menu-form [data-row-span="4"] > [data-field-span="1"] {
@@ -428,29 +428,29 @@
   .menu-form [data-row-span="5"] > [data-field-span="5"] {
     width: 100%; }
   .menu-form [data-row-span="6"] > [data-field-span="1"] {
-    width: 16.66667%; }
+    width: 16.6666666667%; }
   .menu-form [data-row-span="6"] > [data-field-span="2"] {
-    width: 33.33333%; }
+    width: 33.3333333333%; }
   .menu-form [data-row-span="6"] > [data-field-span="3"] {
     width: 50%; }
   .menu-form [data-row-span="6"] > [data-field-span="4"] {
-    width: 66.66667%; }
+    width: 66.6666666667%; }
   .menu-form [data-row-span="6"] > [data-field-span="5"] {
-    width: 83.33333%; }
+    width: 83.3333333333%; }
   .menu-form [data-row-span="6"] > [data-field-span="6"] {
     width: 100%; }
   .menu-form [data-row-span="7"] > [data-field-span="1"] {
-    width: 14.28571%; }
+    width: 14.2857142857%; }
   .menu-form [data-row-span="7"] > [data-field-span="2"] {
-    width: 28.57143%; }
+    width: 28.5714285714%; }
   .menu-form [data-row-span="7"] > [data-field-span="3"] {
-    width: 42.85714%; }
+    width: 42.8571428571%; }
   .menu-form [data-row-span="7"] > [data-field-span="4"] {
-    width: 57.14286%; }
+    width: 57.1428571429%; }
   .menu-form [data-row-span="7"] > [data-field-span="5"] {
-    width: 71.42857%; }
+    width: 71.4285714286%; }
   .menu-form [data-row-span="7"] > [data-field-span="6"] {
-    width: 85.71429%; }
+    width: 85.7142857143%; }
   .menu-form [data-row-span="7"] > [data-field-span="7"] {
     width: 100%; }
   .menu-form [data-row-span="8"] > [data-field-span="1"] {
@@ -470,21 +470,21 @@
   .menu-form [data-row-span="8"] > [data-field-span="8"] {
     width: 100%; }
   .menu-form [data-row-span="9"] > [data-field-span="1"] {
-    width: 11.11111%; }
+    width: 11.1111111111%; }
   .menu-form [data-row-span="9"] > [data-field-span="2"] {
-    width: 22.22222%; }
+    width: 22.2222222222%; }
   .menu-form [data-row-span="9"] > [data-field-span="3"] {
-    width: 33.33333%; }
+    width: 33.3333333333%; }
   .menu-form [data-row-span="9"] > [data-field-span="4"] {
-    width: 44.44444%; }
+    width: 44.4444444444%; }
   .menu-form [data-row-span="9"] > [data-field-span="5"] {
-    width: 55.55556%; }
+    width: 55.5555555556%; }
   .menu-form [data-row-span="9"] > [data-field-span="6"] {
-    width: 66.66667%; }
+    width: 66.6666666667%; }
   .menu-form [data-row-span="9"] > [data-field-span="7"] {
-    width: 77.77778%; }
+    width: 77.7777777778%; }
   .menu-form [data-row-span="9"] > [data-field-span="8"] {
-    width: 88.88889%; }
+    width: 88.8888888889%; }
   .menu-form [data-row-span="9"] > [data-field-span="9"] {
     width: 100%; }
   .menu-form [data-row-span="10"] > [data-field-span="1"] {
@@ -508,48 +508,50 @@
   .menu-form [data-row-span="10"] > [data-field-span="10"] {
     width: 100%; }
   .menu-form [data-row-span="11"] > [data-field-span="1"] {
-    width: 9.09091%; }
+    width: 9.0909090909%; }
   .menu-form [data-row-span="11"] > [data-field-span="2"] {
-    width: 18.18182%; }
+    width: 18.1818181818%; }
   .menu-form [data-row-span="11"] > [data-field-span="3"] {
-    width: 27.27273%; }
+    width: 27.2727272727%; }
   .menu-form [data-row-span="11"] > [data-field-span="4"] {
-    width: 36.36364%; }
+    width: 36.3636363636%; }
   .menu-form [data-row-span="11"] > [data-field-span="5"] {
-    width: 45.45455%; }
+    width: 45.4545454545%; }
   .menu-form [data-row-span="11"] > [data-field-span="6"] {
-    width: 54.54545%; }
+    width: 54.5454545455%; }
   .menu-form [data-row-span="11"] > [data-field-span="7"] {
-    width: 63.63636%; }
+    width: 63.6363636364%; }
   .menu-form [data-row-span="11"] > [data-field-span="8"] {
-    width: 72.72727%; }
+    width: 72.7272727273%; }
   .menu-form [data-row-span="11"] > [data-field-span="9"] {
-    width: 81.81818%; }
+    width: 81.8181818182%; }
   .menu-form [data-row-span="11"] > [data-field-span="10"] {
-    width: 90.90909%; }
+    width: 90.9090909091%; }
   .menu-form [data-row-span="11"] > [data-field-span="11"] {
     width: 100%; }
   .menu-form [data-row-span="12"] > [data-field-span="1"] {
-    width: 8.33333%; }
+    width: 8.3333333333%; }
   .menu-form [data-row-span="12"] > [data-field-span="2"] {
-    width: 16.66667%; }
+    width: 16.6666666667%; }
   .menu-form [data-row-span="12"] > [data-field-span="3"] {
     width: 25%; }
   .menu-form [data-row-span="12"] > [data-field-span="4"] {
-    width: 33.33333%; }
+    width: 33.3333333333%; }
   .menu-form [data-row-span="12"] > [data-field-span="5"] {
-    width: 41.66667%; }
+    width: 41.6666666667%; }
   .menu-form [data-row-span="12"] > [data-field-span="6"] {
     width: 50%; }
   .menu-form [data-row-span="12"] > [data-field-span="7"] {
-    width: 58.33333%; }
+    width: 58.3333333333%; }
   .menu-form [data-row-span="12"] > [data-field-span="8"] {
-    width: 66.66667%; }
+    width: 66.6666666667%; }
   .menu-form [data-row-span="12"] > [data-field-span="9"] {
     width: 75%; }
   .menu-form [data-row-span="12"] > [data-field-span="10"] {
-    width: 83.33333%; }
+    width: 83.3333333333%; }
   .menu-form [data-row-span="12"] > [data-field-span="11"] {
-    width: 91.66667%; }
+    width: 91.6666666667%; }
   .menu-form [data-row-span="12"] > [data-field-span="12"] {
     width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
