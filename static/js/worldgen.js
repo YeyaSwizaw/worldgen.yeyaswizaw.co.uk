@@ -64,7 +64,7 @@ $(document).ready(function() {
     });
 
     function refreshMap() {
-        layer.setUrl('http://worldgen.samuel.sleig.ht/tile/{x}/{y}/' + JSON.stringify(mapjson, null, 0));
+        layer.setUrl('/tile/{x}/{y}'); // /' + JSON.stringify(mapjson, null, 0));
     }
 
     function setDefaults() {
